@@ -9,7 +9,6 @@
 </template>
 
 <script>
-
 export default {
     name: "Navbar",
     props: ["logo", "alt"]
@@ -47,5 +46,4 @@ export default {
  #nav a:hover {
     color: white;
  }
-
 </style>
