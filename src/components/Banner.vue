@@ -17,9 +17,9 @@ export default {
   background-size: cover;
   background-repeat: no-repeat;
   justify-content: flex-start;
-  height: 70vh;
-  min-height: 700px;
-  max-height: 600px;
+  height: 90vh;
+  min-height: 850px;
+  max-height: 650px;
   display: flex;
   align-items: center;
 }
