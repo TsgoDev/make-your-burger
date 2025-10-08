@@ -88,18 +88,19 @@
         "Cheddar",
         "Pepino"
       ],
-      "status": "Solicitado"
+      "status": "Em produção"
     },
     {
-      "id": "06de",
+      "id": "ba20",
       "nome": "Daniel Soares",
-      "carne": "Picanha",
-      "pao": "Parmesão e Orégano",
+      "carne": "Alcatra",
+      "pao": "3 Queijos",
       "opcionais": [
-        "Cebola roxa",
-        "Bacon"
+        "Salame",
+        "Bacon",
+        "Tomate"
       ],
-      "status": "Em produção"
+      "status": "Finalizado"
     }
   ]
 }
