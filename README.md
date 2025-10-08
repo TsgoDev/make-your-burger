@@ -1,19 +1,12 @@
-# make-your-burger
 
-## Project setup
-```
-npm install
-```
+# Objetivo
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Esse é mais um projeto desenvolvido para fins didáticos com intuito de praticar o desenvolvimento com Vue 3 e consumindo a API dado do banco via json.
 
-### Compiles and minifies for production
-```
-npm run backend
-```
+A playlist com o desenvolvimento passo a passo está no YouTube e te convido a acompanhar caso queira aprender ou aprimorar suas habilidades com as tecnologias utilizadas.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<a href="https://www.youtube.com/watch?v=wsAQQioPIJs&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=1" target="_blank">
+  <img src="<img width="1918" height="929" alt="image" src="https://github.com/user-attachments/assets/7c080fd3-d245-4357-be0f-21457400bdca" />
+" alt="Curso Vue 3 e Vite" />
+</a>
+
